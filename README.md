@@ -10,7 +10,7 @@ A Macro Pad for MacOS and Coding built in mind
 
 
 ## BOM
-- 1x Xiao ESP32C3
+- 1x Xiao ESP32S3
 - Cherry MX Reds keyswitches X16
 - Cherry MX Red Keycaps x16
 - SSD1306 0.96inch
