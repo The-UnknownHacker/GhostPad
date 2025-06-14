@@ -18,12 +18,12 @@ A Macro Pad for MacOS and Coding built in mind
 
 ## Fusion Design
 
-![alt text](image.png)
+![alt text](fusion.png)
 
 ## PCB - Schematic
 
-![alt text](image-1.png)
+![alt text](schematic.png)
 
 ## PCB - Layout
 
-![alt text](image-2.png)
+![alt text](Pcb.png)
